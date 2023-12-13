@@ -1,0 +1,1 @@
+# Es necessita fer un programa per la matèria d’estadística que demani una sèrie de números separats per una coma i després calculi la seva mitjana i la seva desviació típica.
